@@ -1,0 +1,12 @@
+C:\Users\krist\source\repos\oxygen\oxygen\obj\Debug\oxygen.vbprojAssemblyReference.cache
+C:\Users\krist\source\repos\oxygen\oxygen\obj\Debug\oxygen.Form1.resources
+C:\Users\krist\source\repos\oxygen\oxygen\obj\Debug\oxygen.Resources.resources
+C:\Users\krist\source\repos\oxygen\oxygen\obj\Debug\oxygen.vbproj.GenerateResource.cache
+C:\Users\krist\source\repos\oxygen\oxygen\obj\Debug\oxygen.vbproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\oxygen\oxygen\bin\Debug\Microsoft Windows Soviet Edition.exe.config
+C:\Users\krist\source\repos\oxygen\oxygen\bin\Debug\Microsoft Windows Soviet Edition.exe
+C:\Users\krist\source\repos\oxygen\oxygen\bin\Debug\Microsoft Windows Soviet Edition.pdb
+C:\Users\krist\source\repos\oxygen\oxygen\bin\Debug\Microsoft Windows Soviet Edition.xml
+C:\Users\krist\source\repos\oxygen\oxygen\obj\Debug\Microsoft Windows Soviet Edition.exe
+C:\Users\krist\source\repos\oxygen\oxygen\obj\Debug\Microsoft Windows Soviet Edition.xml
+C:\Users\krist\source\repos\oxygen\oxygen\obj\Debug\Microsoft Windows Soviet Edition.pdb
